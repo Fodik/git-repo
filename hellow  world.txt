@@ -1,1 +1,1 @@
-Hi
+print("Hellow world!")
